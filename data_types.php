@@ -5,6 +5,14 @@
 // Compound types: Array, Object
 // Special types: NULL, Resource
 
+    $x = 10; // Integer
+    $y = 20.5; // Float
+    $z = "Hello"; // String
+    $isTrue = true; // Boolean
+    $arr = [1, 2, 3]; // Array
+    $obj = new stdClass(); // Object
+    $nullVar = null; // 
+
 // Scalar Types: String
 $name = 'Robiul Hassan';
 var_dump($name);

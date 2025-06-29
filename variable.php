@@ -29,5 +29,12 @@
     // $name! = contain special character
     // name = variable name without $ sign
     // $while = PHP reserved word
+    // $if = PHP reserved word
+    // $for = PHP reserved word 
+
+    $x = 10;
+    $y = 20;
+    $z = $x + $y;
+    echo "\nThe sum of $x and $y is: $z"; // Output: The sum of 10 and 20 is: 30
 
 ?>
