@@ -29,4 +29,4 @@ function addNumbers($a, $b){
     $add = $a + $b; // This function adds two numbers and prints the result
     echo "The sum of $a and $b is: " . $add . "\n";
 }
-addNumbers(5, 10);
+addNumbers(5, 14);
