@@ -48,5 +48,8 @@ function subtract($a, $b){
     // Parameters: $a and $b are the numbers to be subtracted
     return $a - $b; // This function subtracts two numbers and returns the result
 }
-$finalResult = subtract(200, 140);
+$finalResult = subtract(200, 140) + 10;
 echo "The final result after subtraction is: " . $finalResult . "\n"; // Output: The final result after subtraction is: 60
+
+// Function to display the title of a post
+echo the_title();
